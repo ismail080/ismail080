@@ -34,5 +34,5 @@ I'm passionate about:
 ### 📫 Contact Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ismail-abdul-maroof/)
-- 📬 Email: ismailmaroof080@gmail.com
+- 📬 Email: ismailmaroof12@gmail.com
 - 🔎 Always open to collaboration or feedback!
