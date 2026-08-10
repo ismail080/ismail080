@@ -7,8 +7,7 @@
 
 ### 💼 About Me
 
-I'm currently pursuing my Master’s in Data Analytics and hold a Bachelor's in Computer Science.  
-My academic and internship experiences focus on delivering data-driven solutions using Python, SQL, BI tools, and cloud platforms like SAP and Snowflake.
+I have completed my Master’s in Data Analytics and hold a Bachelor's degree in Computer Science. My academic and internship experiences focus on delivering data-driven solutions using Python, SQL, BI tools, and cloud platforms such as SAP and Snowflake.
 
 I'm passionate about:
 
