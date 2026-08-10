@@ -27,7 +27,6 @@ I'm passionate about:
 | [📈 Tableau Dashboard](https://github.com/ismail080/Advanced-Sales-Dashboard-Development-in-Tableau) | Interactive sales performance dashboard built in Tableau |
 | [🧠 UX Report](https://github.com/ismail080/UX-report-) | Evaluated a UX problem using metrics like success ratios and user feedback |
 | [🛠️ Data Engineering](https://github.com/ismail080/Data-Engineering-Home-Assignment) | Loaded & transformed Snowflake sales data using dbt and SQL |
-
 | [⚡ Ai-Data-Analyst](https://[github.com/ismail080/Data-Engineering-Home-Assignment](https://github.com/ismail080/ai-data-analyst)) | AI-powered data analyst built with Python, Pandas and Google Gemini API |
 
 ---
