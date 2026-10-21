@@ -21,6 +21,7 @@ I'm passionate about:
 
 | Project | Description |
 |--------|-------------|
+| [🏦 Revolut Outage Review](https://github.com/ismail080/revolut-outage-oct-2026) | Analyzed the Oct 2026 Revolut outage using sourced public data, SQL and Python, with an [interactive dashboard](https://ismail080.github.io/revolut-outage-oct-2026/) |
 | [📊 Job Survey](https://github.com/ismail080/Job_Survey) | Analyzed job market survey data to identify career satisfaction trends using Power BI |
 | [🛒 Ecommerce Sales](https://github.com/ismail080/Ecommerce-Sales) | Python-based analysis of monthly sales performance across US states |
 | [🚰 Water Portability](https://github.com/ismail080/Water-Portability-) | ML model to predict potability of water samples (classification problem) |
